@@ -1,0 +1,203 @@
+#background {
+    background: #E8EEFF;
+    padding: 96px;
+
+}
+
+#Beautiful {
+    color: #181D27;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 76px;
+    width: 864px;
+}
+
+#analytics {
+    color: #05F;
+}
+
+#smarter {
+    color: #6941C6;
+    text-decoration-line: underline;
+}
+
+#Powerful {
+    color: #535862;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+}
+
+#backgroundpic {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 5px;
+}
+
+#pic {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 25px;
+    border-radius: 40px;
+}
+
+#message {
+    border-radius: 8px;
+    background: #FFF;
+    display: inline-block;
+   margin-right: 10px;
+    text-align: center;
+}
+
+#chat {
+    width: 24px;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 15px;
+}
+
+#Share {
+    color: #181D27;
+    text-align: center;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+#Whether {
+    color: #535862;
+    margin: 0 auto;
+    text-align: center;
+    width: 417px;
+}
+
+#zap {
+    max-width: 430px;
+    text-align: center;
+    margin-right: 10px;
+    background-color: #FFF;
+    border-radius: 10px;
+    padding: 1px;
+    display: inline-block;
+}
+
+#zaptwo {
+    width: 24px;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+
+}
+
+#Deliver {
+    color: #181D27;
+    text-align: center;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+#An {
+    color: #535862;
+    margin: 0 auto;
+    text-align: center;
+    width: 417px;
+}
+
+#chart {
+    max-width: 430px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #FFF;
+    border-radius: 10px;
+    padding: 1px;
+    display: inline-block;
+}
+
+#charttwo {
+    width: 24px;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+}
+
+#Manage {
+    color: #181D27;
+    text-align: center;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+#Measure {
+    color: #535862;
+    margin: 0 auto;
+    text-align: center;
+    width: 417px;
+    padding: 20px;
+}
+
+#purple {
+    background: #53389E;
+    margin: 0 auto;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#Give {
+    color: #FFF;
+    font-weight: 600;
+    text-align: center;
+    display: inline-block;
+    margin-top: 30px;
+   
+
+}
+
+#Join {
+    color: #FFF;
+    font-weight: 600;
+    text-align: center;
+
+}
+
+#learn {
+    color: #414651;
+    background-color: #FFF;
+    width: 134px;
+    border-radius: 10px;
+    height: 47px;
+    padding: var(--spacing-lg, 12px) 18px;
+}
+
+#Get {
+    color: #FFF;
+    background: #7F56D9;
+    width: 134px;
+    border-radius: 10px;
+    border: 2px solid #FFF;
+    height: 47px;
+
+}
+
+#two {
+    padding: 20px;
+   
+}
+#text{
+    display: inline-block;
+    vertical-align: middle;
+    width: 700px;
+    text-align: center;
+}
+
+#imageDiv {
+    display: inline-block;
+    vertical-align: middle;
+    width: 580px;
+    text-align: right;
+}
+#divone{
+   
+}
